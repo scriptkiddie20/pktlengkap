@@ -1,0 +1,39 @@
+html,
+body {
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.teks {
+    font-size: 3vh;
+}
+
+.container-fluid {
+    height: 40%;
+    background: url(/image/aktivitas/1.jpg) center / cover no-repeat #000000;
+    background-blend-mode: screen;
+    margin-bottom: 20px;
+}
+
+.title {
+    height: 35%;
+    width: 60%;
+    background-color: rgba(000, 000, 000, .5);
+    filter: blur(100%);
+    border-radius: 20px 20px;
+    box-shadow: #000000;
+    padding: 20px;
+}
+
+
+/* .owl-item {
+    height: 20%;
+    width: 20%;
+    background-color: aqua;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
